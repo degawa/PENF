@@ -1,0 +1,8 @@
+name = "PENF"
+version = "1.2.1"
+description = "Portability Environment for Fortran poor people"
+
+[library]
+source-dir="src"
+
+[dependencies]
