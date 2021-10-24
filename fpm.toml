@@ -4,5 +4,3 @@ description = "Portability Environment for Fortran poor people"
 
 [library]
 source-dir="src"
-
-[dependencies]
