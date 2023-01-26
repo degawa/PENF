@@ -1212,7 +1212,7 @@ contains
    if (present(error)) error = err
    endfunction ctoi_I1P
 
-#if defined(R16P)
+#if defined(_R16P)
    elemental function bstr_R16P(n) result(bstr)
    !< Convert real to string of bits.
    !<
